@@ -14,25 +14,26 @@ public:
         int max = 0;
         ListNode* temp = head;
         ListNode* temp2 = head;
-        stack<int>st;
+        //stack<int>st;
+        vector<int>v;
         while(temp!=NULL)
         {
             int x = temp->val;
-            st.push(x);
+            v.push_back(x);
+            // st.push(x);
             temp = temp->next;
         }
-        int i=0;
-        int half = st.size()/2;
-        while(i<half)
+        int i=v.size()-1;
+        while(i>0)
         {
-            int p = st.top() + temp2->val;
-            st.pop();
+            int p = v[i] + temp2->val;
+            // st.pop();
             temp2 = temp2->next;
             if(p>max)
             {
                 max = p;
             }
-            i++;
+            i--;
         }
         return max;
     }
