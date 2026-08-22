@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
