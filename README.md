@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2000-reverse-prefix-of-word](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
