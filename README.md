@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
