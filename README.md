@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2363-merge-similar-items](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2363-merge-similar-items) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2363-merge-similar-items](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2363-merge-similar-items) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2363-merge-similar-items](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2363-merge-similar-items) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
