@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0066-plus-one) |
+| [0485-max-consecutive-ones](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
