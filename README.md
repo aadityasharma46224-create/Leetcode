@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2000-reverse-prefix-of-word](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3903-smallest-stable-index-i) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
