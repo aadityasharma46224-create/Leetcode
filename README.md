@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2363-merge-similar-items](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2363-merge-similar-items) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -136,9 +139,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Recursion
 |  |
