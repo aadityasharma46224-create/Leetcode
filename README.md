@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3794-reverse-string-prefix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
 | ------- |
