@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Queue
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
