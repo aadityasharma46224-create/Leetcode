@@ -11,19 +11,44 @@
  */
 class Solution {
 public:
-    void vect(TreeNode* root, vector<int> &v)
-    {
+    // void vect(TreeNode* root, vector<int> &v)
+    // {
+    //     if(root==NULL)
+    //     {
+    //         return;
+    //     }
+    //     v.push_back(root->val);
+    //     vect(root->left,v);
+    //     vect(root->right,v);
+    // }
+    vector<int> preorderTraversal(TreeNode* root) {
+        // vector<int>v;
+        // vect(root, v);
+        // return v;
+        vector<int>v;
         if(root==NULL)
         {
-            return;
+            return v;
         }
-        v.push_back(root->val);
-        vect(root->left,v);
-        vect(root->right,v);
-    }
-    vector<int> preorderTraversal(TreeNode* root) {
-        vector<int>v;
-        vect(root, v);
+        stack<TreeNode*>st;
+        st.push(root);
+
+        while(!st.empty())
+        {
+            TreeNode* temp = st.top();
+            st.pop();
+            v.push_back(temp->val);
+
+            if(temp->right !=NULL)
+            {
+                st.push(temp->right);
+            }
+
+            if(temp->left !=NULL)
+            {
+                st.push(temp->left);
+            }
+        }
         return v;
     }
 };
