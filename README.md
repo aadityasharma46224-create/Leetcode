@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2363-merge-similar-items](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2363-merge-similar-items) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2363-merge-similar-items](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2363-merge-similar-items) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
