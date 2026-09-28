@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1302-deepest-leaves-sum](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1302-deepest-leaves-sum](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
