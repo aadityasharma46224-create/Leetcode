@@ -10,17 +10,26 @@
 
 class Solution {
 public:
-    bool present(TreeNode* root, TreeNode* target)
-    {
-        if(root==NULL) return false;
-        if(root ==target) return true;
-        return present(root->left, target) || present(root->right, target);
-    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root==p || root ==q) return root;
-        else if(present(root->left,p) && present(root->right,q)) return root;
-        else if(present(root->right,p) && present(root->left,q)) return root;
-        else if(present(root->left,p) && present(root->left,q)) return lowestCommonAncestor(root->left,p,q);
-        else return lowestCommonAncestor(root->right,p,q);
+        if((root->val == p->val)||(root->val == q->val))
+        {
+            return root;
+        }
+        if((root->val > p->val)&& (root->val < q->val))
+        {
+            return root;
+        }
+        if((root->val < p->val)&& (root->val > q->val))
+        {
+            return root;
+        }
+        else if((root->val < p->val)&& (root->val < q->val))
+        {
+            return lowestCommonAncestor(root->right,p, q);
+        }
+        else
+        {
+            return lowestCommonAncestor(root->left,p, q);
+        }
     }
 };
