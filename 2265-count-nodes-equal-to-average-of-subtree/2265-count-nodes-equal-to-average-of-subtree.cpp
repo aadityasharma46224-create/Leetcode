@@ -1,14 +1,3 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
     int count(TreeNode* temp)
@@ -17,30 +6,29 @@ public:
         {
             return 0;
         }
-        return 1 + count(temp->left) + count(temp->right);
+        return 1 + count(temp->left)+ count(temp->right);
     }
-    int averag(TreeNode* root)
+    int sum(TreeNode* temp)
     {
-        if(root==NULL)
+        if(temp==NULL)
         {
             return 0;
         }
-        return root->val + averag(root->left) + averag(root->right);
+        return temp->val + sum(temp->left) + sum(temp->right);
     }
-    int cont=0;
+    int cnt=0;
     int averageOfSubtree(TreeNode* root) {
         if(root==NULL)
         {
             return 0;
         }
-        int p = count(root);
-        int x = averag(root);
-        if(x/p==root->val)
+        int avg = sum(root)/count(root);
+        if(avg == root->val)
         {
-            cont++;
+            cnt++;
         }
         averageOfSubtree(root->left);
         averageOfSubtree(root->right);
-        return cont;
+        return cnt;
     }
 };
