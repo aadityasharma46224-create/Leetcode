@@ -11,6 +11,8 @@
  */
 class Solution {
 public:
+
+    //self done
     void traversal(vector<int>&v, TreeNode* temp)
     {
         if(temp==NULL)
