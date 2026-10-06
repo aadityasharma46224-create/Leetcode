@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -161,12 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -304,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
