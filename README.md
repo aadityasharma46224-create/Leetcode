@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
