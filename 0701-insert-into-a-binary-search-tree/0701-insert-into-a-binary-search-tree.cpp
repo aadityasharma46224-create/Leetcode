@@ -11,34 +11,44 @@
  */
 class Solution {
 public:
+    void insert(TreeNode* temp, TreeNode* newone)
+    {
+        
+    }
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        TreeNode* ans = root;
-        TreeNode* temp = new TreeNode(val);
+        TreeNode* newone = new TreeNode(val);
         if(root==NULL)
         {
-            return temp;
+            return newone;
         }
-        while(root!=NULL)
+        TreeNode* temp = root;
+        while(temp!=NULL)
         {
-            if(root->val < val)
+            if(temp->val < newone->val)
             {
-                if(root->right == NULL)
+                if(temp->right!=NULL)
                 {
-                    root->right = temp;
-                    return ans;
+                    temp = temp->right;
                 }
-                root = root->right;
-            }    
-            else if(root->val > val)
+                else
+                {
+                    temp->right = newone;
+                    break;
+                }
+            }
+            else if(temp->val > newone->val)
             {
-                if(root->left == NULL)
+                if(temp->left!=NULL)
                 {
-                    root->left = temp;
-                    return ans;
+                    temp = temp->left;
                 }
-                root = root->left;
-            }   
+                else
+                {
+                    temp->left = newone;
+                    break;
+                }
+            }
         }
-        return ans;
+         return root;   
     }
 };
