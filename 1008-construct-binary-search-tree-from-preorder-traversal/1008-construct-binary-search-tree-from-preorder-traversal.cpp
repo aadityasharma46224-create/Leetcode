@@ -11,42 +11,51 @@
  */
 class Solution {
 public:
-    void insert(TreeNode* root, int value)
+    TreeNode* vectotree(TreeNode* root, int z)
     {
+        
         if(root==NULL)
         {
-            TreeNode* temp = new TreeNode(value);
+            return NULL;
         }
-        else if(root->val > value)
+        TreeNode* a = root;
+        TreeNode* ans = new TreeNode(z);
+        while(root!=NULL)
         {
-            if(root->left == NULL)
+            if(root->val<z)
             {
-                root->left = new TreeNode(value);
+                if(root->right!=NULL)
+                {
+                    root = root->right;
+                }
+                else
+                {
+                    root->right = ans;
+                    break;
+                }
             }
-            else
+            else if(root->val>z)
             {
-                insert(root->left, value);
+                if(root->left!=NULL)
+                {
+                    root = root->left;
+                }
+                else
+                {
+                    root->left = ans;
+                    break;
+                }
             }
         }
-        else if(root->val < value)
-        {
-            if(root->right==NULL)
-            {
-                root->right = new TreeNode(value);
-            }
-            else
-            {
-                insert(root->right, value);
-            }
-        }
+        return a;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
         int n = preorder.size();
-        TreeNode* ans = new TreeNode(preorder[0]);
+        TreeNode* temp = new TreeNode(preorder[0]);
         for(int i=1; i<n; i++)
         {
-            insert(ans , preorder[i]);
+            vectotree(temp, preorder[i]);
         }
-        return ans;
+        return temp;
     }
 };
