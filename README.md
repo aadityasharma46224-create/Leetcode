@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1046-last-stone-weight](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1046-last-stone-weight) |
 ## Matrix
 |  |
 | ------- |
