@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/aadityasharma46224-create/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Tree
