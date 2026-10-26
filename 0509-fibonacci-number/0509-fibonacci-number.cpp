@@ -1,20 +1,17 @@
 class Solution {
 public:
-    int fibo(int n, vector<int>&v)
-    {
-        if(n==1 || n==0)
+    int fib(int n) {
+        if(n==0 || n==1)
         {
             return n;
         }
-        if(v[n]!=-1)
+        vector<int>dp(n+1);
+        dp[0]=0;
+        dp[1]=1;
+        for(int i=2; i<=n; i++)
         {
-            return v[n];
+            dp[i]= dp[i-1]+dp[i-2];
         }
-        v[n]= fibo(n-1, v)+fibo(n-2, v);
-        return v[n];
-    }
-    int fib(int n) {
-        vector<int>dp(n+1, -1);
-        return fibo(n, dp);
+        return dp[n];
     }
 };
