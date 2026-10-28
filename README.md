@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0509-fibonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -376,10 +377,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
