@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+// bro self done by me  logic is developed on pen and copy so when revise do on that and see 
     int minMoves(vector<int>& nums) {
         int n = nums.size();
         sort(nums.begin(),nums.end());
