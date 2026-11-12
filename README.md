@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0198-house-robber](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0198-house-robber](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
