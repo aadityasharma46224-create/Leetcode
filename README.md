@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1710-maximum-units-on-a-truck](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
