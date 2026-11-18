@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aadityasharma46224-create/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0881-boats-to-save-people](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/aadityasharma46224-create/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -410,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0062-unique-paths) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
