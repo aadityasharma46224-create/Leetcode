@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0066-plus-one) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0881-boats-to-save-people) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aadityasharma46224-create/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
