@@ -6,10 +6,7 @@ public:
         for(int i=0; i<siz; i++)
         {
             int x = n[i]-'0';
-            if(x>maxi)
-            {
-                maxi = x;
-            }
+            maxi = max(x,maxi);
         }
         return maxi;
     }
